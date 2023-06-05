@@ -1,0 +1,159 @@
+DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<style>
+
+*{
+
+margin: 0;
+
+}
+
+body {
+
+background: pink;
+
+width: 70%;
+
+margin-left: auto;
+
+margin-right: auto;
+
+}
+
+#title {
+
+text-align: center;
+
+text-shadow: 5px 5px 10px white;
+
+font-size: 8vh;
+
+}
+
+#image img { margin-left: 25%;
+
+margin-right: 25%;
+
+width:40%;
+
+height:250px;}
+
+#caption {
+
+font-size: 19px;
+
+font-family:sans-serif;
+
+color: black;
+
+}
+
+#tribute-data {
+
+background-color: rgb(46, 139, 87, 0.25);
+
+box-shadow: 20px 20px 20px #555755;
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+padding: 25px 25px;
+
+margin: 11px;
+
+margin-top: 50px;
+
+}
+
+h1.title-vk {
+
+font-size: 35px;
+
+color: white;
+
+text-align: center;
+
+text-shadow: 5px 6px 10px black;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<main id="main">
+
+<!-- Title of the web page tributing virat kohli -->
+
+<h1 id="title">
+
+Chhatrapati Shivaji Maharaj
+
+</h1>
+
+<div id="image">
+
+<!--Image of the Chhatrapati Shivaji Maharaj-->
+
+D<img src="image.jpg" alt="Error in the image">
+
+</div>
+
+<div id="tribute-data">
+
+<h1 class="title-vk">
+
+Chhatrapati shivaji Maharaj
+
+</h1>
+
+<p>
+
+Shivaji Bhonsle, also known as Chhatrapati Shivaji maharaj, was born on 16th February 1627.
+
+He was the son of Shahji and Jijabai.
+
+At an early age, Shivaji got the right education from his mother and father.
+
+His indomitable spirit and intelligence were off the chart.
+
+<br><br> ☛ He grew up to be a formidable ruler and united the different kingdoms to form the
+
+Maratha Empire.
+
+<br><br> ☛ When Virat got his first ODI century against Sri Lanka, 107 off 111, it was worth the
+
+wait
+
+for him to return to the national squad.
+
+<br><br> ☛ His intelligence and valour made the Mughal Empire and other rulers shiver in fear.
+
+His enemy, Adil Shah wanted to kill him. He sent his commander,
+
+Afzal Khan to trick him and kill him on the spot.
+
+<br><br> ☛ Shivaji was one step ahead. He hid a dagger and killed Afzal Khan and fled.
+
+He fought many battles and freed people from the tyranny of many rulers.
+
+<br><br> ☛ This is why he got the name ‘Chhatrapati Shivaji’ or the people’s king.
+
+He died in 1680 due to illness.
+
+</p>
+
+</div>
+
+<br>
+
+</main>
+
+</body>
+
+</html>
